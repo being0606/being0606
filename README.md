@@ -1,5 +1,11 @@
 ### Hi there 👋
 My Page : https://being0606.github.io
+
+👋 Hi, I’m @being0606
+👀 I’m interested in AI
+🌱 I’m currently learning AI
+📫 How to reach me : onuhjin@gmail.com
+
 <!--
 **being0606/being0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
