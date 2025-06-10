@@ -12,6 +12,6 @@ My Page : https://being0606.github.io
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeing0606%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=tensorflow.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeing0606%2Fhit-counter&count_bg=%23FFB300&title_bg=%23007ACC&icon=star.svg&icon_color=%23FFD700&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
